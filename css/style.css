@@ -1,0 +1,77 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.body {
+   background-color:    #1391CE;;
+}
+
+.header-contanier {
+   display: flex;
+   align-items: center;
+}
+
+.contanier {
+   margin: 0 auto;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+.img {
+   height: 100px;
+   padding-left: 200px;
+   padding-right: 200px;
+}
+
+.link {
+ margin-left: 1000px;  
+ 
+}
+
+.header-item {
+   margin-right: 50px;
+}
+
+.oq {
+   color: white;
+}
+
+.kok {
+   background-color: white;
+   color:    #1391CE;
+   border-radius: 15%;
+}
+
+.intro-content {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.intro-username {
+  
+   width: 560px;
+   height: 24px;
+   left: 160px;
+   top: 309px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 32px;
+   line-height: 38px;
+   color: #3B4A6B;
+}
+
+.as {
+   width: 560px;
+   height: 55px;
+   left: 159px;
+   top: 375px;
+   font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #3B4A6B;
+ 
+}
